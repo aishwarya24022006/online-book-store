@@ -73,10 +73,9 @@ To build a user-friendly and scalable online bookstore platform that makes book 
 
 ### 🧩 Architecture Diagram
 
-- Editable Diagram: docs/design/architecture.drawio  
 
 - Image View:
-![Architecture Diagram](docs/design/architecture.png)
+![Architecture Diagram](docs/design/Architecture.png)
 
 ---
 
