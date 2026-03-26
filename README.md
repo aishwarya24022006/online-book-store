@@ -68,3 +68,19 @@ To build a user-friendly and scalable online bookstore platform that makes book 
 ### Constraints
 - Limited development time
 - Free-tier cloud deployment
+
+## 📌 Software Design
+
+### 🧩 Architecture Diagram
+
+- Editable Diagram: docs/design/architecture.drawio  
+
+- Image View:
+![Architecture Diagram](docs/design/architecture.png)
+
+---
+
+
+### 📝 Design Summary
+
+The system follows a client-server architecture where the frontend communicates with the backend using REST APIs. The backend handles business logic, authentication, and interacts with the database for storing user, book, and order data. Docker is used to containerize the application, ensuring consistent development and deployment.
